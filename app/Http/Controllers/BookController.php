@@ -13,6 +13,7 @@ class BookController extends Controller
     {
         $books = Book::all();
         return response()->json($books);
+        
     }
 
     public function store(Request $request)
