@@ -21,4 +21,6 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/app/Http/Controller/api
+app\Http\Controllers\BookController.php
+app\Http\Controllers\LoanController.php
+app\Http\Controllers\UserController.php
