@@ -16,6 +16,7 @@ class CategoryController extends Controller
             'message' => 'Categories retrieved successfully.',
             'data' => $categories
         ], 200);
+        
     }
 
     public function store(Request $request)
