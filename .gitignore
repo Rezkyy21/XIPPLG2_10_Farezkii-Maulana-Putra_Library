@@ -21,4 +21,7 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-\Users\LENOVO\libraryss\app\Http\Controllers\CategoryController.php
+app\Http\Controllers\BookController.php
+app\Http\Controllers\LoanController.php
+app\Http\Controllers\ReviewController.php
+app\Http\Controllers\UserController.php
